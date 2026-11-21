@@ -10,4 +10,4 @@
    Тогда игру можно держать на GitHub Pages / Cloudflare Pages,
    а сохранения — в Worker.
    ============================================================ */
-window.API_BASE = '';
+window.API_BASE = 'soulclicker-bot.vladzolotorev9.workers.dev';
